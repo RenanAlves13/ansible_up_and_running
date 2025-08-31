@@ -1,4 +1,4 @@
-# ansible_up_and_running# Ansible Studies
+# Ansible Studies
 
 This repository contains study notes and practical examples based on the book:
 
